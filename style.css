@@ -1,0 +1,56 @@
+body{
+	 background: #DCDCDC;
+}
+.text{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 100%;
+	weight: 100%;
+	text-align: center;
+}
+
+.intr{
+	color: black;
+	width: 100%;
+	height: 870px;
+	background: lightgray;
+	padding: 20px;
+	text-align: center;
+}
+
+.imag{
+	margin: 20px;
+	height: 700px;
+	width: 1300px;
+}
+
+.container{
+	text-align: center;
+	margin: 5px;
+	padding: 10px;
+	border-radius: 10px;
+	background: #eeeeee;
+	height: 100%;
+	width: 650px;
+}
+
+.link-dark{
+	text-decoration: none;
+	font-size: 30px;
+}
+
+.npage{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 100%;
+	text-align: center;
+}
+
+.list{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+	text-align: center;
+}
